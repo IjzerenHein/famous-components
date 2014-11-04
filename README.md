@@ -8,12 +8,18 @@ Overview of famo.us components.
 * [famous-map](https://github.com/IjzerenHein/famous-map) (Google-maps & LeafletJS integration for famo.us)
 * [famous-flex](https://github.com/IjzerenHein/famous-flex) (Flexible, animated and plugable layout-controller and scrollview for famo.us)
 * [famous-bkimagesurface](https://github.com/IjzerenHein/famous-bkimagesurface) (Drop-in replacement for ImageSurface supporting AspectFit & AspectFill)
+* [famous-autosizetextarea](https://github.com/IjzerenHein/famous-autosizetextarea) (Auto-sizing TextArea for famo.us)
 
 
 # Layout
 
 * [famous-sizeconstraint](https://github.com/IjzerenHein/famous-sizeconstraint) (SizeConstraint makes it possible to set the maximum-size, minimum-size, aspect-ratio and size-scale for renderables)
 * [famous-boxlayout](https://github.com/IjzerenHein/famous-boxlayout) (Layout-view for quickly setting margins or creating flexible layouts)
+
+
+# Demos
+
+* [famous-flex-chat](https://github.com/IjzerenHein/famous-flex-chat) (Chat-demo for famo.us using true-size chat bubbles, snap to bottom, sticky headers & pull-to-refresh)
 
 
 # Animations
