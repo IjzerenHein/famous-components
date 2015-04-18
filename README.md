@@ -9,6 +9,7 @@ Overview of famo.us components.
 * [famous-flex](https://github.com/IjzerenHein/famous-flex) (Flexible ScrollView and layout-controllerfor famo.us)
 * [famous-bkimagesurface](https://github.com/IjzerenHein/famous-bkimagesurface) (Drop-in replacement for ImageSurface supporting AspectFit & AspectFill)
 * [famous-autosizetextarea](https://github.com/IjzerenHein/famous-autosizetextarea) (Auto-sizing TextArea for famo.us)
+* [famous-autofontsizesurface](https://github.com/IjzerenHein/famous-autofontsizesurface) (Auto font-sizing surface for famo.us)
 * [famous-refresh-loader](https://github.com/IjzerenHein/famous-refresh-loader) (Pull to refresh loader for famo.us)
 * [famous-sizeconstraint](https://github.com/IjzerenHein/famous-sizeconstraint) (SizeConstraint makes it possible to set the maximum-size, minimum-size, aspect-ratio and size-scale for renderables)
 * [famous-boxlayout](https://github.com/IjzerenHein/famous-boxlayout) (Layout-view for quickly setting margins or creating flexible layouts)
